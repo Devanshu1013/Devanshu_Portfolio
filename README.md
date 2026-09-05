@@ -1,9 +1,11 @@
-# Devanshu Prajapati
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:205295&height=180&section=header&text=Devanshu%20Prajapati&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Systems%20Developer&descSize=18&descAlignY=65" width="100%"/>
+</p>
 
-### Machine Learning Engineer | Data Scientist | AI Systems Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu1013/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Devanshu1013)
+<p align="center">
+  <a href="https://www.linkedin.com/in/devanshu1013/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Devanshu1013"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
