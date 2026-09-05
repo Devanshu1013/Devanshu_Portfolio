@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Resume_Converter](https://github.com/Devanshu1013/Resume_Converter)
 
-[← Back to portfolio](./)
+[← Back to portfolio](./README.md)
 
 ---
 
