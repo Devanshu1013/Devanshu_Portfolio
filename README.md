@@ -1,10 +1,40 @@
-# Hi, I'm Devanshu Prajapati 👋
+# Devanshu Prajapati
 
-Machine Learning | Data Science | AI Systems
+### Machine Learning Engineer | Data Scientist | AI Systems Developer
 
-M.Sc. in Data Science and Analytics @ Toronto Metropolitan University. I build machine learning systems and AI-driven applications across recommendation systems, time-series forecasting, NLP, and LLM-based tools.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu1013/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Devanshu1013)
 
-📫 [LinkedIn](https://www.linkedin.com/in/devanshu1013/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Devanshu1013)
+---
+
+## 👋 About Me
+
+I'm a graduate researcher and machine learning practitioner focused on building data-driven systems that solve real-world problems — from public safety analytics to recommendation engines and applied NLP. My work spans the full pipeline: data engineering, model development, evaluation, and deployment-ready applications.
+
+I'm currently completing my **Master of Science in Data Science and Analytics** at **Toronto Metropolitan University**, where my research centers on spatio-temporal machine learning for urban crime risk modeling, supervised by **Dr. Xingwei (Nancy) Yang**.
+
+Outside of academic research, I've worked professionally as an ML/NLP developer and frontend developer, and I enjoy turning applied ML techniques — forecasting, recommendation systems, NLP, and LLM-based tools — into complete, usable projects.
+
+### 🎓 Education
+
+**M.Sc. in Data Science and Analytics** — Toronto Metropolitan University *(Graduating September 2026)*
+GPA: 4.28 / 4.33 &nbsp;|&nbsp; Supervisor: Dr. Xingwei (Nancy) Yang
+Major Research Project: *Modeling Urban Crime Risk and Arrest Probability Using Spatio-Temporal Machine Learning Techniques*
+
+### 💼 Experience
+
+- **ML/NLP Developer** — TechXi
+- **Frontend Developer** — TatvaSoft
+- **Data Science Virtual Intern** — IBM
+
+### 📜 Certifications
+
+| Certificate | Issuer | Issued |
+|---|---|---|
+| [Python for Data Science](https://www.credly.com/badges/ad86c0e6-9c1d-4af4-be89-01ded9c13a6b) | IBM | Jul 2022 |
+| [Machine Learning with Python – Level 1](https://www.credly.com/badges/117e535e-ea64-4d13-bf5e-0f01c7c0cceb) | IBM | Jul 2022 |
+| [Data Visualization Using Python](https://www.credly.com/badges/7c7ad3dd-32a6-41fe-a3cf-63f48ece1aad) | IBM | Jul 2022 |
+| [Data Science Foundations – Level 1](https://www.credly.com/badges/20744671-df9b-4380-a8df-b9e51a0371da) | IBM | Jul 2022 |
 
 ---
 
