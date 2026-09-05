@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Edit_Intent](https://github.com/Devanshu1013/Edit_Intent)
 
-[← Back to portfolio](../README.md)
+[← Back to portfolio](./)
 
 ---
 
@@ -15,8 +15,8 @@ A transformer-based text classification system that identifies the *purpose* beh
 
 **Tech stack:** `Python` `Transformers` `Deep Learning` `Jupyter Notebook`
 
-![Edit Intent Classification Approaches](../assets/edit-intent-preview.png)
+![Edit Intent Classification Approaches](assets/edit-intent-preview.png)
 
 ---
 
-[← Back to portfolio](../README.md) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Edit_Intent)
+[← Back to portfolio](./) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Edit_Intent)

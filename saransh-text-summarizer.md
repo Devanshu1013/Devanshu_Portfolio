@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Saransh](https://github.com/Devanshu1013/Saransh)
 
-[← Back to portfolio](../README.md)
+[← Back to portfolio](./)
 
 ---
 
@@ -16,8 +16,8 @@ A text summarization and translation tool that accepts both plain text and PDF i
 
 **Tech stack:** `Python` `NLTK` `PyMuPDF` `pyttsx3` `Translation`
 
-<!-- ![Saransh](../assets/saransh-preview.png) -->
+<!-- ![Saransh](assets/saransh-preview.png) -->
 
 ---
 
-[← Back to portfolio](../README.md) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Saransh)
+[← Back to portfolio](./) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Saransh)

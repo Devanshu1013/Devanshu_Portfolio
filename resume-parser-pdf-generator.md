@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Resume_Converter](https://github.com/Devanshu1013/Resume_Converter)
 
-[← Back to portfolio](../README.md)
+[← Back to portfolio](./)
 
 ---
 
@@ -15,8 +15,8 @@ A tool that extracts text from an uploaded resume PDF, pulls out structured info
 
 **Tech stack:** `Python` `Streamlit` `PyPDF2` `ReportLab`
 
-<!-- ![Resume Converter](../assets/resume-converter-preview.png) -->
+<!-- ![Resume Converter](assets/resume-converter-preview.png) -->
 
 ---
 
-[← Back to portfolio](../README.md) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Resume_Converter)
+[← Back to portfolio](./) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Resume_Converter)

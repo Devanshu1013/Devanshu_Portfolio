@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/WhatsApp-Chat-Analyzer](https://github.com/Devanshu1013/WhatsApp-Chat-Analyzer)
 
-[← Back to portfolio](../README.md)
+[← Back to portfolio](./)
 
 ---
 
@@ -15,8 +15,8 @@ A tool that extracts insights from exported WhatsApp chat data, giving a compreh
 
 **Tech stack:** `Python` `Pandas` `Matplotlib/Seaborn` `NLP`
 
-![WhatsApp Chat Analyzer — Most Common Words](../assets/whatsapp-analyzer-preview.png)
+![WhatsApp Chat Analyzer — Most Common Words](assets/whatsapp-analyzer-preview.png)
 
 ---
 
-[← Back to portfolio](../README.md) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/WhatsApp-Chat-Analyzer)
+[← Back to portfolio](./) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/WhatsApp-Chat-Analyzer)

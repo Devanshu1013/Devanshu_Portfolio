@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Energy-Forecasting](https://github.com/Devanshu1013/Energy-Forecasting)
 
-[← Back to portfolio](../README.md)
+[← Back to portfolio](./)
 
 ---
 
@@ -16,8 +16,8 @@ A comparative study of deep learning architectures for multivariate energy time-
 
 **Tech stack:** `Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet`
 
-![Model Comparison — MAE and RMSE](../assets/energy-forecasting-preview.png)
+![Model Comparison — MAE and RMSE](assets/energy-forecasting-preview.png)
 
 ---
 
-[← Back to portfolio](../README.md) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Energy-Forecasting)
+[← Back to portfolio](./) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Energy-Forecasting)

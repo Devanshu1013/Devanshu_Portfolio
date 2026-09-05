@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Movies-Recommendation](https://github.com/Devanshu1013/Movies-Recommendation)
 
-[← Back to portfolio](../README.md)
+[← Back to portfolio](./)
 
 ---
 
@@ -15,8 +15,8 @@ A DS8001 course project comparing multiple recommendation strategies — content
 
 **Tech stack:** `Python` `Pandas` `Scikit-learn` `SVD` `Collaborative Filtering`
 
-![Top 10 Movies — Popularity + Weighted Average](../assets/movies-recommendation-preview.png)
+![Top 10 Movies — Popularity + Weighted Average](assets/movies-recommendation-preview.png)
 
 ---
 
-[← Back to portfolio](../README.md) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Movies-Recommendation)
+[← Back to portfolio](./) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/Movies-Recommendation)

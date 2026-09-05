@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/DeepPaper-Predictor](https://github.com/Devanshu1013/DeepPaper-Predictor)
 
-[← Back to portfolio](../README.md)
+[← Back to portfolio](./)
 
 ---
 
@@ -15,8 +15,8 @@ A web application that helps researchers discover relevant papers and predicts t
 
 **Tech stack:** `Python` `NLP` `TF-IDF` `Scikit-learn` `Jupyter Notebook`
 
-![DeepPaper Predictor App](../assets/deeppaper-preview.png)
+![DeepPaper Predictor App](assets/deeppaper-preview.png)
 
 ---
 
-[← Back to portfolio](../README.md) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/DeepPaper-Predictor)
+[← Back to portfolio](./) &nbsp;|&nbsp; [🔗 View on GitHub](https://github.com/Devanshu1013/DeepPaper-Predictor)
