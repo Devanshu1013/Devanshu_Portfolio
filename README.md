@@ -42,187 +42,85 @@ Major Research Project: *Modeling Urban Crime Risk and Arrest Probability Using 
 
 ## 🚀 Projects
 
-| # | Project |
-|---|---------|
-| 1 | [Modeling Urban Crime Risk & Arrest Probability](#1-modeling-urban-crime-risk-and-arrest-probability-using-spatio-temporal-machine-learning-techniques) |
-| 2 | [Movies Recommendation System](#2-movies-recommendation-system) |
-| 3 | [DeepPaper Predictor](#3-deeppaper-predictor) |
-| 4 | [WhatsApp Chat Analyzer](#4-whatsapp-chat-analyzer) |
-| 5 | [Edit Intent Classification](#5-edit-intent-classification) |
-| 6 | [Energy Forecasting](#6-energy-forecasting) |
-| 7 | [Saransh — Text Summarizer](#7-saransh--text-summarizer) |
-| 8 | [Audio to Text Converter](#8-audio-to-text-converter) |
-| 9 | [Resume Parser & PDF Generator](#9-resume-parser--pdf-generator) |
+Click any project to see the full write-up (problem, data, methodology, results) — each project page links back to its original GitHub repo.
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 1. [Modeling Urban Crime Risk and Arrest Probability Using Spatio-Temporal Machine Learning Techniques](https://github.com/Devanshu1013/MODELING-URBAN-CRIME-RISK-AND-ARREST-PROBABILITY-USING-SPATIO-TEMPORAL-MACHINE-LEARNING-TECHNIQUES)
+### [1. Modeling Urban Crime Risk & Arrest Probability](projects/crime-risk-prediction.md)
+`Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `PyTorch`
 
-A full-scale research study (my Major Research Project, supervised by **Dr. Xingwei (Nancy) Yang**) that builds a spatio-temporal machine learning framework to predict the probability of arrest for a reported crime, using over two decades of real-world Chicago crime records enriched with socio-economic, weather, and public-transit mobility data — aimed at supporting data-driven public safety decisions.
+</td>
+<td width="50%" valign="top">
 
-**Problem & Motivation**
-Not every reported crime results in an arrest, and arrest likelihood varies systematically by location, time, crime type, and the surrounding socio-economic context. This project models that variation directly, treating arrest prediction as a spatio-temporal classification problem rather than a simple crime-count forecast.
+### [2. Movies Recommendation System](projects/movies-recommendation.md)
+`Python` `Pandas` `Scikit-learn` `SVD` `Collaborative Filtering`
 
-**Data**
-- **Chicago crime data, 2001–2023** — the core dataset of reported incidents, crime types, locations, and arrest outcomes
-- **Socio-economic indicators** by community area — income, unemployment, and related quintile-level features
-- **Weather data** — temperature, rain/snow, and other daily conditions
-- **Mobility / transit data** — public transit ridership trends, joined at the daily and community-area level
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Pipeline**
-1. **Literature review** — grounding the approach in prior crime-prediction research
-2. **Data preprocessing & integration** — merging crime, socio-economic, weather, and mobility sources into a single spatio-temporal dataset
-3. **Exploratory Data Analysis (EDA)** — crime trends by year, month, day of week, and hour; domestic vs. non-domestic breakdowns; top community areas and crime types; correlation analysis between crime, socio-economic, weather, and mobility factors
-4. **Feature engineering** — spatio-temporal features capturing location- and time-based patterns
-5. **Experiments** — training and tuning 15 models across three sampling strategies (original, oversampled, undersampled) to handle class imbalance
-6. **Results & evaluation** — comparing models on accuracy, precision, recall, F1, ROC-AUC, and PR-AUC
+### [3. DeepPaper Predictor](projects/deeppaper-predictor.md)
+`Python` `NLP` `TF-IDF` `Scikit-learn`
 
-**Models benchmarked:** Random Forest, Extra Trees, LightGBM, XGBoost, CatBoost, Gradient Boosting, AdaBoost, Decision Tree, Logistic Regression, Linear SVM, SGD Linear SVM, MLP, LSTM, GRU, and TCN
+</td>
+<td width="50%" valign="top">
 
-**Key Result**
-Across all sampling strategies, **Random Forest with oversampling** delivered the best overall performance, consistently topping the accuracy and F1-score rankings — ahead of boosting methods (LightGBM, XGBoost, CatBoost) and deep sequence models (LSTM, GRU, TCN).
+### [4. WhatsApp Chat Analyzer](projects/whatsapp-chat-analyzer.md)
+`Python` `Pandas` `Matplotlib/Seaborn` `NLP`
 
-**Status:** Written up as a formal academic research paper; currently being finalized for publication.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech stack:** `Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `PyTorch` `Pandas` `Spatio-Temporal Feature Engineering`
+### [5. Edit Intent Classification](projects/edit-intent-classification.md)
+`Python` `Transformers` `Deep Learning`
 
-![Top 10 Performing Models — Crime Risk Project](./assets/crime-risk-preview.png)
+</td>
+<td width="50%" valign="top">
 
----
+### [6. Energy Forecasting](projects/energy-forecasting.md)
+`Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet`
 
-### 2. [Movies Recommendation System](https://github.com/Devanshu1013/Movies-Recommendation)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A DS8001 course project comparing multiple recommendation strategies — content-based, collaborative filtering, popularity-based, hybrid, and SVD — using real-world movie data from Kaggle, with a focus on evaluating each approach's strengths and trade-offs.
+### [7. Saransh — Text Summarizer](projects/saransh-text-summarizer.md)
+`Python` `NLTK` `PyMuPDF` `pyttsx3`
 
-**Highlights:**
-- Compares 5 different recommendation strategies on the same dataset
-- Includes matrix factorization (SVD) alongside classic collaborative and content-based methods
-- Evaluation-driven approach to compare recommendation quality across models
+</td>
+<td width="50%" valign="top">
 
-**Tech stack:** `Python` `Pandas` `Scikit-learn` `SVD` `Collaborative Filtering`
+### [8. Audio to Text Converter](projects/audio-to-text-converter.md)
+`Python` `SpeechRecognition`
 
-![Top 10 Movies — Popularity + Weighted Average](./assets/movies-recommendation-preview.png)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### [9. Resume Parser & PDF Generator](projects/resume-parser-pdf-generator.md)
+`Python` `Streamlit` `PyPDF2` `ReportLab`
 
-### 3. [DeepPaper Predictor](https://github.com/Devanshu1013/DeepPaper-Predictor)
-
-A web application that helps researchers discover relevant papers and predicts the subject area of a research paper directly from its abstract, using NLP techniques such as TF-IDF and similarity ranking.
-
-**Highlights:**
-- Predicts subject area of academic papers from abstract text
-- Uses TF-IDF and similarity ranking to recommend related papers
-- Packaged as an interactive web application
-
-**Tech stack:** `Python` `NLP` `TF-IDF` `Scikit-learn` `Jupyter Notebook`
-
-![DeepPaper Predictor App](./assets/deeppaper-preview.png)
-
----
-
-### 4. [WhatsApp Chat Analyzer](https://github.com/Devanshu1013/WhatsApp-Chat-Analyzer)
-
-A tool that extracts insights from exported WhatsApp chat data, giving a comprehensive overview of conversation patterns — including message frequency, media sharing trends, and sentiment analysis.
-
-**Highlights:**
-- Parses raw WhatsApp chat export files
-- Visualizes message frequency, activity timelines, and media-sharing patterns
-- Includes sentiment analysis on chat text
-
-**Tech stack:** `Python` `Pandas` `Matplotlib/Seaborn` `NLP`
-
-![WhatsApp Chat Analyzer — Most Common Words](./assets/whatsapp-analyzer-preview.png)
-
----
-
-### 5. [Edit Intent Classification](https://github.com/Devanshu1013/Edit_Intent)
-
-A transformer-based text classification system that identifies the *purpose* behind an edit made to a piece of text. Given a source sentence and its edited version, the model classifies the underlying intent behind the change.
-
-**Highlights:**
-- Transformer-based fine-tuning for intent classification
-- Structured evaluation pipeline for comparing model performance
-- Works on paired (original, edited) sentence data
-
-**Tech stack:** `Python` `Transformers` `Deep Learning` `Jupyter Notebook`
-
-![Edit Intent Classification Approaches](./assets/edit-intent-preview.png)
-
----
-
-### 6. [Energy Forecasting](https://github.com/Devanshu1013/Energy-Forecasting)
-
-A comparative study of deep learning architectures for multivariate energy time-series forecasting. Uses 8 hours of historical sensor readings to predict the next energy consumption reading, benchmarking four different model families.
-
-**Highlights:**
-- Compares LSTM, TCN, Transformer, and LSTNet architectures on the same forecasting task
-- Trained on the UCI Appliances Energy Prediction dataset (~19,700 rows, 10-minute intervals)
-- Includes multi-horizon forecasting and sequence-length ablation experiments
-- Chronological train/val/test split to avoid data leakage
-
-**Tech stack:** `Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet`
-
-![Model Comparison — MAE and RMSE](./assets/energy-forecasting-preview.png)
-
----
-
-### 7. [Saransh — Text Summarizer](https://github.com/Devanshu1013/Saransh)
-
-A text summarization and translation tool that accepts both plain text and PDF input. It uses NLTK-based summarization with lemmatization for improved accuracy, and can output the summary as an audio file — including in multiple languages.
-
-**Highlights:**
-- Extracts text directly from PDF documents
-- NLTK + lemmatization based extractive summarization with adjustable summary length
-- Converts summaries to speech (text-to-audio) using `pyttsx3`
-- Translates summaries into multiple languages, with chunked translation for long text
-
-**Tech stack:** `Python` `NLTK` `PyMuPDF` `pyttsx3` `Translation`
-
-<!-- ![Saransh](./assets/saransh-preview.png) -->
-
----
-
-### 8. [Audio to Text Converter](https://github.com/Devanshu1013/Audio_To_Text)
-
-A simple utility that converts audio files into text transcripts using the `speech_recognition` library.
-
-**Highlights:**
-- Converts spoken audio into text transcripts
-- Lightweight, notebook-based implementation
-
-**Tech stack:** `Python` `SpeechRecognition` `Jupyter Notebook`
-
-<!-- ![Audio to Text](./assets/audio-to-text-preview.png) -->
-
----
-
-### 9. [Resume Parser & PDF Generator](https://github.com/Devanshu1013/Resume_Converter)
-
-A tool that extracts text from an uploaded resume PDF, pulls out structured information (name, skills, experience, education, projects, hackathons, and achievements), and regenerates it as a clean, professionally formatted PDF resume — making it easier to review and compare resumes in one consistent format.
-
-**Highlights:**
-- Extracts structured fields from raw resume PDFs using `PyPDF2` and regex
-- Generates a standardized, professional PDF resume with `ReportLab`
-- Simple upload-and-generate interface built with Streamlit
-
-**Tech stack:** `Python` `Streamlit` `PyPDF2` `ReportLab`
-
-<!-- ![Resume Converter](./assets/resume-converter-preview.png) -->
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Java, C++
-
 **Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Feature Engineering, Model Evaluation, Cross-Validation
-
 **Deep Learning:** TensorFlow, PyTorch, Keras, CNN, RNN, LSTM, Transformers
-
 **NLP:** Text Preprocessing, TF-IDF, Word Embeddings, Text Classification
-
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
-
 **Databases & Tools:** MySQL, Git, Streamlit
 
 ---
