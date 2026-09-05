@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/DeepPaper-Predictor](https://github.com/Devanshu1013/DeepPaper-Predictor)
 
-[← Back to portfolio](./)
+[← Back to portfolio](./README.md)
 
 ---
 
