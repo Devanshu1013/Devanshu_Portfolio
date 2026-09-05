@@ -44,88 +44,23 @@ Major Research Project: *Modeling Urban Crime Risk and Arrest Probability Using 
 
 Click any project to see the full write-up (problem, data, methodology, results) — each project page links back to its original GitHub repo.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### [1. Modeling Urban Crime Risk & Arrest Probability](crime-risk-prediction.md)
-`Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `PyTorch`
-
-</td>
-<td width="50%" valign="top">
-
-### [2. Movies Recommendation System](movies-recommendation.md)
-`Python` `Pandas` `Scikit-learn` `SVD` `Collaborative Filtering`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [3. DeepPaper Predictor](deeppaper-predictor.md)
-`Python` `NLP` `TF-IDF` `Scikit-learn`
-
-</td>
-<td width="50%" valign="top">
-
-### [4. WhatsApp Chat Analyzer](whatsapp-chat-analyzer.md)
-`Python` `Pandas` `Matplotlib/Seaborn` `NLP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [5. Edit Intent Classification](edit-intent-classification.md)
-`Python` `Transformers` `Deep Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### [6. Energy Forecasting](energy-forecasting.md)
-`Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [7. Saransh — Text Summarizer](saransh-text-summarizer.md)
-`Python` `NLTK` `PyMuPDF` `pyttsx3`
-
-</td>
-<td width="50%" valign="top">
-
-### [8. Audio to Text Converter](audio-to-text-converter.md)
-`Python` `SpeechRecognition`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [9. Resume Parser & PDF Generator](resume-parser-pdf-generator.md)
-`Python` `Streamlit` `PyPDF2` `ReportLab`
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+| | |
+|---|---|
+| **[1. Modeling Urban Crime Risk & Arrest Probability](crime-risk-prediction.md)**<br>`Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `PyTorch` | **[2. Movies Recommendation System](movies-recommendation.md)**<br>`Python` `Pandas` `Scikit-learn` `SVD` `Collaborative Filtering` |
+| **[3. DeepPaper Predictor](deeppaper-predictor.md)**<br>`Python` `NLP` `TF-IDF` `Scikit-learn` | **[4. WhatsApp Chat Analyzer](whatsapp-chat-analyzer.md)**<br>`Python` `Pandas` `Matplotlib/Seaborn` `NLP` |
+| **[5. Edit Intent Classification](edit-intent-classification.md)**<br>`Python` `Transformers` `Deep Learning` | **[6. Energy Forecasting](energy-forecasting.md)**<br>`Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet` |
+| **[7. Saransh — Text Summarizer](saransh-text-summarizer.md)**<br>`Python` `NLTK` `PyMuPDF` `pyttsx3` | **[8. Audio to Text Converter](audio-to-text-converter.md)**<br>`Python` `SpeechRecognition` |
+| **[9. Resume Parser & PDF Generator](resume-parser-pdf-generator.md)**<br>`Python` `Streamlit` `PyPDF2` `ReportLab` | |
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Java, C++
-
 **Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Feature Engineering, Model Evaluation, Cross-Validation
-
 **Deep Learning:** TensorFlow, PyTorch, Keras, CNN, RNN, LSTM, Transformers
-
 **NLP:** Text Preprocessing, TF-IDF, Word Embeddings, Text Classification
-
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
-
 **Databases & Tools:** MySQL, Git, Streamlit
 
 ---
