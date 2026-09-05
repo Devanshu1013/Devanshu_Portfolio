@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Audio_To_Text](https://github.com/Devanshu1013/Audio_To_Text)
 
-[← Back to portfolio](./)
+[← Back to portfolio](./README.md)
 
 ---
 
