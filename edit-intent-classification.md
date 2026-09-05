@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Edit_Intent](https://github.com/Devanshu1013/Edit_Intent)
 
-[← Back to portfolio](./)
+[← Back to portfolio](./README.md)
 
 ---
 
