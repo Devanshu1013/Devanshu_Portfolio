@@ -48,13 +48,13 @@ Click any project to see the full write-up (problem, data, methodology, results)
 <tr>
 <td width="50%" valign="top">
 
-### [1. Modeling Urban Crime Risk & Arrest Probability](projects/crime-risk-prediction.md)
+### [1. Modeling Urban Crime Risk & Arrest Probability](crime-risk-prediction.md)
 `Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `PyTorch`
 
 </td>
 <td width="50%" valign="top">
 
-### [2. Movies Recommendation System](projects/movies-recommendation.md)
+### [2. Movies Recommendation System](movies-recommendation.md)
 `Python` `Pandas` `Scikit-learn` `SVD` `Collaborative Filtering`
 
 </td>
@@ -62,13 +62,13 @@ Click any project to see the full write-up (problem, data, methodology, results)
 <tr>
 <td width="50%" valign="top">
 
-### [3. DeepPaper Predictor](projects/deeppaper-predictor.md)
+### [3. DeepPaper Predictor](deeppaper-predictor.md)
 `Python` `NLP` `TF-IDF` `Scikit-learn`
 
 </td>
 <td width="50%" valign="top">
 
-### [4. WhatsApp Chat Analyzer](projects/whatsapp-chat-analyzer.md)
+### [4. WhatsApp Chat Analyzer](whatsapp-chat-analyzer.md)
 `Python` `Pandas` `Matplotlib/Seaborn` `NLP`
 
 </td>
@@ -76,13 +76,13 @@ Click any project to see the full write-up (problem, data, methodology, results)
 <tr>
 <td width="50%" valign="top">
 
-### [5. Edit Intent Classification](projects/edit-intent-classification.md)
+### [5. Edit Intent Classification](edit-intent-classification.md)
 `Python` `Transformers` `Deep Learning`
 
 </td>
 <td width="50%" valign="top">
 
-### [6. Energy Forecasting](projects/energy-forecasting.md)
+### [6. Energy Forecasting](energy-forecasting.md)
 `Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet`
 
 </td>
@@ -90,13 +90,13 @@ Click any project to see the full write-up (problem, data, methodology, results)
 <tr>
 <td width="50%" valign="top">
 
-### [7. Saransh — Text Summarizer](projects/saransh-text-summarizer.md)
+### [7. Saransh — Text Summarizer](saransh-text-summarizer.md)
 `Python` `NLTK` `PyMuPDF` `pyttsx3`
 
 </td>
 <td width="50%" valign="top">
 
-### [8. Audio to Text Converter](projects/audio-to-text-converter.md)
+### [8. Audio to Text Converter](audio-to-text-converter.md)
 `Python` `SpeechRecognition`
 
 </td>
@@ -104,7 +104,7 @@ Click any project to see the full write-up (problem, data, methodology, results)
 <tr>
 <td width="50%" valign="top">
 
-### [9. Resume Parser & PDF Generator](projects/resume-parser-pdf-generator.md)
+### [9. Resume Parser & PDF Generator](resume-parser-pdf-generator.md)
 `Python` `Streamlit` `PyPDF2` `ReportLab`
 
 </td>
