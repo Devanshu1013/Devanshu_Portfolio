@@ -66,8 +66,7 @@ A large-scale research project that builds a machine learning framework to predi
 
 **Tech stack:** `Python` `Scikit-learn` `Pandas` `Spatio-Temporal Feature Engineering`
 
-<!-- Add a screenshot of your EDA charts or results here, e.g.: -->
-<!-- ![Crime Risk Project](./assets/crime-risk-preview.png) -->
+![Top 10 Performing Models — Crime Risk Project](./assets/crime-risk-preview.png)
 
 ---
 
@@ -82,7 +81,7 @@ A DS8001 course project comparing multiple recommendation strategies — content
 
 **Tech stack:** `Python` `Pandas` `Scikit-learn` `SVD` `Collaborative Filtering`
 
-<!-- ![Movies Recommendation](./assets/movies-recommendation-preview.png) -->
+![Top 10 Movies — Popularity + Weighted Average](./assets/movies-recommendation-preview.png)
 
 ---
 
@@ -97,7 +96,7 @@ A web application that helps researchers discover relevant papers and predicts t
 
 **Tech stack:** `Python` `NLP` `TF-IDF` `Scikit-learn` `Jupyter Notebook`
 
-<!-- ![DeepPaper Predictor](./assets/deeppaper-preview.png) -->
+![DeepPaper Predictor App](./assets/deeppaper-preview.png)
 
 ---
 
@@ -112,7 +111,7 @@ A tool that extracts insights from exported WhatsApp chat data, giving a compreh
 
 **Tech stack:** `Python` `Pandas` `Matplotlib/Seaborn` `NLP`
 
-<!-- ![WhatsApp Chat Analyzer](./assets/whatsapp-analyzer-preview.png) -->
+![WhatsApp Chat Analyzer — Most Common Words](./assets/whatsapp-analyzer-preview.png)
 
 ---
 
@@ -127,7 +126,7 @@ A transformer-based text classification system that identifies the *purpose* beh
 
 **Tech stack:** `Python` `Transformers` `Deep Learning` `Jupyter Notebook`
 
-<!-- ![Edit Intent Classification](./assets/edit-intent-preview.png) -->
+![Edit Intent Classification Approaches](./assets/edit-intent-preview.png)
 
 ---
 
@@ -143,7 +142,7 @@ A comparative study of deep learning architectures for multivariate energy time-
 
 **Tech stack:** `Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet`
 
-<!-- ![Energy Forecasting](./assets/energy-forecasting-preview.png) -->
+![Model Comparison — MAE and RMSE](./assets/energy-forecasting-preview.png)
 
 ---
 
