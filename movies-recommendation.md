@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/Movies-Recommendation](https://github.com/Devanshu1013/Movies-Recommendation)
 
-[← Back to portfolio](./)
+[← Back to portfolio](./README.md)
 
 ---
 
