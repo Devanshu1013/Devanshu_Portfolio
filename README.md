@@ -61,8 +61,11 @@ Click any project to see the full write-up (problem, data, methodology, results)
 **Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Feature Engineering, Model Evaluation, Cross-Validation
 
 **Deep Learning:** TensorFlow, PyTorch, Keras, CNN, RNN, LSTM, Transformers
+
 **NLP:** Text Preprocessing, TF-IDF, Word Embeddings, Text Classification
+
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+
 **Databases & Tools:** MySQL, Git, Streamlit
 
 ---
