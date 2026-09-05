@@ -8,5 +8,3 @@ Data Science and Analytics Portfolio
 This repository contains the code, data pipeline, and paper for a Major Research Paper (MRP) completed at the **Toronto Metropolitan University (TMU)**, School of Data Science and Analytics, under the supervision of **Dr. Xingwei (Nancy) Yang**.
 
 The study develops a machine learning framework to predict **arrest probability** and **crime risk** using Chicago crime records integrated with socio-economic, weather, and CTA (Chicago Transit Authority) mobility data, supporting data-driven public safety decision-making.
-
-## Overview
