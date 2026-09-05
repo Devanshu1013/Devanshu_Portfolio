@@ -2,7 +2,7 @@
 
 🔗 **Original Repository:** [github.com/Devanshu1013/WhatsApp-Chat-Analyzer](https://github.com/Devanshu1013/WhatsApp-Chat-Analyzer)
 
-[← Back to portfolio](./)
+[← Back to portfolio](./README.md)
 
 ---
 
