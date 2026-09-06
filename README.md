@@ -21,10 +21,9 @@ Outside of academic research, I've worked professionally as an ML/NLP developer 
 ### 🎓 Education
 
 **M.Sc. in Data Science and Analytics** — Toronto Metropolitan University *(September 2026)*
-GPA: 4.28 / 4.33
-Coursework: Machine Learning, Algorithms, Big Data, Natural Language Processing, Deep Learning, Data Visualization, Data Mining
-
-Major Research Project: *Modeling Urban Crime Risk and Arrest Probability Using Spatio-Temporal Machine Learning Techniques*
+<br>GPA: 4.28 / 4.33
+<br>Coursework: Machine Learning, Algorithms, Big Data, Natural Language Processing, Deep Learning, Data Visualization, Data Mining
+<br>Major Research Project: *Modeling Urban Crime Risk and Arrest Probability Using Spatio-Temporal Machine Learning Techniques*
 
 **Bachelor's Degree** — Gujarat Technological University (GTU)
 CGPA: 8.91
