@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:205295&height=180&section=header&text=Urban%20Crime%20Risk%20%26%20Arrest%20Probability&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=Spatio-Temporal%20Machine%20Learning%20for%20Public%20Safety%20Analytics&descSize=16&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:205295&height=180&section=header&text=Urban%20Crime%20Risk%20and%20Arrest%20Probability&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=Spatio-Temporal%20Machine%20Learning%20for%20Public%20Safety%20Analytics&descSize=16&descAlignY=65" width="100%"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ This project is my Major Research Project, a full-scale academic study that buil
 Not every reported crime ends in an arrest, and that outcome isn't random — it varies systematically by location, time of day, crime type, and the socio-economic conditions of the surrounding neighborhood. Between 2001 and 2023, total reported crime in Chicago fell steadily, yet the arrest rate declined even more sharply, dropping from roughly 30% in the early 2000s to around 12% by 2023.
 
 <p align="center">
-  <img src="assets/crime-risk-trend.png" alt="Total crimes and arrest rate per year, 2001–2023" width="90%"/>
+  <img src="assets/crime-risk-trend.png" alt="Total crimes and arrest rate per year, 2001–2023" width="65%"/>
 </p>
 
 That widening gap is the motivation for this project: arrest likelihood needed to be modeled directly, as its own spatio-temporal classification problem, rather than inferred from simple crime-count forecasts.
@@ -27,7 +27,7 @@ To explain that gap, the project pulls in three additional data sources alongsid
 - **Socio-economic indicators** (income and unemployment by community area) — arrest rates ranged from 33% in the lowest income quintile down to 21% in the highest, showing that policing outcomes are tightly linked to neighborhood-level economic conditions.
 
 <p align="center">
-  <img src="assets/crime-risk-socioeconomic.png" alt="Arrest rate by income and unemployment quintile" width="90%"/>
+  <img src="assets/crime-risk-socioeconomic.png" alt="Arrest rate by income and unemployment quintile" width="65%"/>
 </p>
 
 - **Weather data** (temperature, rain, snow) — daily conditions shift both how much crime occurs and how it's resolved.
@@ -36,7 +36,7 @@ To explain that gap, the project pulls in three additional data sources alongsid
 A correlation analysis across all four sources confirmed that these factors interact rather than acting in isolation — for example, weekend activity, transit ridership, and income are all correlated with each other and with arrest outcomes — which justified combining them into a single modeling framework instead of treating crime as a standalone time series.
 
 <p align="center">
-  <img src="assets/crime-risk-correlation.png" alt="Correlation heatmap across crime, socio-economic, weather, and mobility features" width="90%"/>
+  <img src="assets/crime-risk-correlation.png" alt="Correlation heatmap across crime, socio-economic, weather, and mobility features" width="65%"/>
 </p>
 
 ## Methodology
@@ -55,24 +55,24 @@ A correlation analysis across all four sources confirmed that these factors inte
 Oversampling gave the most balanced lift across metrics — improving precision and recall together — while the original, imbalanced data pushed accuracy artificially high at the cost of recall.
 
 <p align="center">
-  <img src="assets/crime-risk-sampling-methods.png" alt="Average performance across sampling strategies" width="80%"/>
+  <img src="assets/crime-risk-sampling-methods.png" alt="Average performance across sampling strategies" width="60%"/>
 </p>
 
 Across all 15 models, tree-based ensembles led the field, with **Random Forest** (paired with oversampling) delivering the best overall F1 score — ahead of Extra Trees, LightGBM, XGBoost, CatBoost, and the deep sequence models (LSTM, GRU, TCN).
 
 <p align="center">
-  <img src="assets/crime-risk-model-ranking.png" alt="Overall model performance ranked by F1 score" width="85%"/>
+  <img src="assets/crime-risk-model-ranking.png" alt="Overall model performance ranked by F1 score" width="65%"/>
 </p>
 
 A closer look at the top 5 models across every metric shows just how tightly they're clustered — Random Forest holds a consistent edge in precision and F1, while all five converge on similarly strong ROC-AUC and PR-AUC scores.
 
 <p align="center">
-  <img src="assets/crime-risk-radar.png" alt="Radar comparison of the top 5 models across all metrics" width="70%"/>
+  <img src="assets/crime-risk-radar.png" alt="Radar comparison of the top 5 models across all metrics" width="55%"/>
 </p>
 
 ## Status
 
-Written up as a formal academic research paper; currently being finalized for publication.
+This is under publication.
 
 ## Tech Stack
 
