@@ -55,7 +55,7 @@ Explore each project below for an in-depth write-up.
 | **[3. DeepPaper Predictor](deeppaper-predictor.md)**<br>`Python` `NLP` `TF-IDF` `Scikit-learn` | **[4. WhatsApp Chat Analyzer](whatsapp-chat-analyzer.md)**<br>`Python` `Pandas` `Matplotlib/Seaborn` `NLP` |
 | **[5. Edit Intent Classification](edit-intent-classification.md)**<br>`Python` `Transformers` `Deep Learning` | **[6. Energy Forecasting](energy-forecasting.md)**<br>`Python` `PyTorch` `LSTM` `TCN` `Transformer` `LSTNet` |
 | **[7. Saransh — Text Summarizer](saransh-text-summarizer.md)**<br>`Python` `NLTK` `PyMuPDF` `pyttsx3` | **[8. Audio to Text Converter](audio-to-text-converter.md)**<br>`Python` `SpeechRecognition` |
-| **[9. Resume Parser & PDF Generator](resume-parser-pdf-generator.md)**<br>`Python` `Streamlit` `PyPDF2` `ReportLab` | |
+| **[9. Resume Parser & PDF Generator](resume-parser-pdf-generator.md)**<br>`Python` `Streamlit` `PyPDF2` `ReportLab` | **[10. MultiPDF Chat](multipdf-chat.md)**<br>`Python` `LangChain` `Streamlit` `FAISS` |
 
 ---
 
