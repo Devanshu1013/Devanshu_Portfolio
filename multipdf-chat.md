@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:205295&height=180&section=header&text=MultiPDF%20Chat&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Conversational%20Q%26A%20Over%20Multiple%20PDF%20Documents&descSize=16&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:205295&height=180&section=header&text=MultiPDF%20Chat&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Conversational%20QA%20Over%20Multiple%20PDF%20Documents&descSize=16&descAlignY=65" width="100%"/>
 </p>
-
 <p align="center">
 <a href="https://devanshu1013.github.io/Devanshu_Portfolio/">← Back to Portfolio</a>
 </p>
 
----
 
 ## Overview
 
