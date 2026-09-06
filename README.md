@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/devanshu1013/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Devanshu1013"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Devanshu1013/Devanshu_Portfolio"><img src="https://img.shields.io/badge/Portfolio-Repo-205295?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -13,15 +14,20 @@
 
 I'm a graduate researcher and machine learning practitioner focused on building data-driven systems that solve real-world problems — from public safety analytics to recommendation engines and applied NLP. My work spans the full pipeline: data engineering, model development, evaluation, and deployment-ready applications.
 
-I'm currently completing my **Master of Science in Data Science and Analytics** at **Toronto Metropolitan University**, where my research centers on spatio-temporal machine learning for urban crime risk modeling, supervised by **Dr. Xingwei (Nancy) Yang**.
+I've completed my **Master of Science in Data Science and Analytics** at **Toronto Metropolitan University**, where my research centered on spatio-temporal machine learning for urban crime risk modeling. This work has resulted in a research paper that is currently under process of publication.
 
 Outside of academic research, I've worked professionally as an ML/NLP developer and frontend developer, and I enjoy turning applied ML techniques — forecasting, recommendation systems, NLP, and LLM-based tools — into complete, usable projects.
 
 ### 🎓 Education
 
-**M.Sc. in Data Science and Analytics** — Toronto Metropolitan University *(Graduating September 2026)*
-GPA: 4.28 / 4.33 &nbsp;|&nbsp; Supervisor: Dr. Xingwei (Nancy) Yang
+**M.Sc. in Data Science and Analytics** — Toronto Metropolitan University *(September 2026)*
+GPA: 4.28 / 4.33
+Coursework: Machine Learning, Algorithms, Big Data, Natural Language Processing, Deep Learning, Data Visualization, Data Mining
+
 Major Research Project: *Modeling Urban Crime Risk and Arrest Probability Using Spatio-Temporal Machine Learning Techniques*
+
+**Bachelor's Degree** — Gujarat Technological University (GTU)
+CGPA: 8.91
 
 ### 💼 Experience
 
@@ -42,7 +48,7 @@ Major Research Project: *Modeling Urban Crime Risk and Arrest Probability Using 
 
 ## 🚀 Projects
 
-Click any project to see the full write-up (problem, data, methodology, results) — each project page links back to its original GitHub repo.
+Explore each project below for an in-depth write-up.
 
 | | |
 |---|---|
@@ -55,22 +61,27 @@ Click any project to see the full write-up (problem, data, methodology, results)
 ---
 
 ## 🛠️ Technical Skills
-
-**Languages:** Python, Java, C++
-
-**Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Feature Engineering, Model Evaluation, Cross-Validation
-
-**Deep Learning:** TensorFlow, PyTorch, Keras, CNN, RNN, LSTM, Transformers
-
-**NLP:** Text Preprocessing, TF-IDF, Word Embeddings, Text Classification
-
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
-
-**Databases & Tools:** MySQL, Git, Streamlit
-
+ 
+**Languages:** Python, Java, C++, SQL
+ 
+**Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Ensemble Methods (XGBoost, LightGBM, CatBoost, Random Forest), Feature Engineering, Hyperparameter Tuning, Model Evaluation & Cross-Validation, Recommendation Systems (Collaborative Filtering, SVD)
+ 
+**Deep Learning:** TensorFlow, PyTorch, Keras, CNN, RNN, LSTM, TCN, Transformers, Time-Series Forecasting (LSTNet)
+ 
+**NLP:** Text Preprocessing, Tokenization, TF-IDF, Word Embeddings, Text Classification, Text Summarization, Named Entity Recognition, Transformer-based Language Models (Hugging Face)
+ 
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis, Statistical Analysis
+ 
+**MLOps & Deployment:** Streamlit, Model Serialization, PyPDF2, ReportLab, PyMuPDF
+ 
+**Speech & Audio:** SpeechRecognition, pyttsx3, Text-to-Speech Pipelines
+ 
+**Databases & Tools:** MySQL, Git, GitHub, Jupyter Notebook, VS Code
+ 
 ---
 
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/devanshu1013](https://www.linkedin.com/in/devanshu1013/)
 - GitHub: [github.com/Devanshu1013](https://github.com/Devanshu1013)
+- Portfolio Repo: [github.com/Devanshu1013/Devanshu_Portfolio](https://github.com/Devanshu1013/Devanshu_Portfolio)
