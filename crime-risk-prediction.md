@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:205295&height=180&section=header&text=Urban%20Crime%20Risk%20and%20Arrest%20Probability&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=Spatio-Temporal%20Machine%20Learning%20for%20Public%20Safety%20Analytics&descSize=16&descAlignY=65" width="100%"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:205295&height=180&section=header&text=Urban%20Crime%20Risk%20and%20Arrest%20Probability&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=Spatio-Temporal%20Machine%20Learning%20for%20Public%20Safety%20Analytics&descSize=16&descAlignY=65" width="100%"/> </p> <p align="center"> 🔗 <a href="https://github.com/Devanshu1013/MODELING-URBAN-CRIME-RISK-AND-ARREST-PROBABILITY-USING-SPATIO-TEMPORAL-MACHINE-LEARNING-TECHNIQUES">Original Repository</a> &nbsp;|&nbsp; <a href="https://github.com/Devanshu1013/Devanshu_Portfolio/blob/main/README.md">← Back to Portfolio</a> </p>
 
-<p align="center">
-🔗 <a href="https://github.com/Devanshu1013/MODELING-URBAN-CRIME-RISK-AND-ARREST-PROBABILITY-USING-SPATIO-TEMPORAL-MACHINE-LEARNING-TECHNIQUES">Original Repository</a> &nbsp;|&nbsp; <a href="./README.md">← Back to Portfolio</a>
-</p>
-
----
 
 ## Overview
 
