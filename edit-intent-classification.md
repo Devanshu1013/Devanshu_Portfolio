@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-🔗 <a href="https://github.com/Devanshu1013/Edit_Intent">Original Repository</a> &nbsp;|&nbsp; <a href="https://github.com/Devanshu1013/Devanshu_Portfolio/blob/main/README.md">← Back to Portfolio</a>
+🔗 <a href="https://github.com/Devanshu1013/Edit_Intent">Original Repository</a> &nbsp;|&nbsp; <a href="https://devanshu1013.github.io/Devanshu_Portfolio/">← Back to Portfolio</a>
 </p>
 
 ---
